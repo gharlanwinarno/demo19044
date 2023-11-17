@@ -1,1 +1,3 @@
 edit file 1 di lokal
+
+tambah baris dan edit baris yg ditulis di remote repo
